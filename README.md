@@ -13,4 +13,6 @@ The frequency meter checks for a change in square waves, and determines the freq
 
 The frequency-meter is the default mode of the multimeter, and the other modes can be selected by pressing the appropriate button.
 
+See file "Application Project 2.pdf" for the state diagram, mathematical calculations, and multimeter specifications.
+
 This was designed as the Final Application Project for ENCM 511 - Embedded Systems Interfacing.
